@@ -1,0 +1,6 @@
+{
+    "blogs":[
+        {"title" :"My first blog ", "body":"manifesteez vous", "author":"mario", "id":1},
+        {"title" :"opening party", "body":"manifesteez vous", "author":"yoshi", "id":2}
+    ]
+}
